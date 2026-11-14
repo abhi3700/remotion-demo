@@ -1,0 +1,50 @@
+[
+  {
+    "text": "There are four pieces.",
+    "startMs": 112,
+    "endMs": 1175,
+    "timestampMs": 644,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "The statement, or claim.",
+    "startMs": 1575,
+    "endMs": 2788,
+    "timestampMs": 2182,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "The witness, which is private.",
+    "startMs": 3200,
+    "endMs": 4975,
+    "timestampMs": 4088,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "The proof Alice creates.",
+    "startMs": 5375,
+    "endMs": 6950,
+    "timestampMs": 6162,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "And the verifier,",
+    "startMs": 7350,
+    "endMs": 8212,
+    "timestampMs": 7781,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "which checks that proof.",
+    "startMs": 8425,
+    "endMs": 9625,
+    "timestampMs": 9025,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

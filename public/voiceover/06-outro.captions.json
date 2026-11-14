@@ -1,0 +1,42 @@
+[
+  {
+    "text": "The key idea?",
+    "startMs": 96,
+    "endMs": 781,
+    "timestampMs": 438,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "Prove correctness.",
+    "startMs": 1166,
+    "endMs": 2308,
+    "timestampMs": 1737,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "Reveal nothing else \u2014",
+    "startMs": 2704,
+    "endMs": 4147,
+    "timestampMs": 3426,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "beyond what the statement",
+    "startMs": 4351,
+    "endMs": 5457,
+    "timestampMs": 4904,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "and public inputs disclose.",
+    "startMs": 5577,
+    "endMs": 7308,
+    "timestampMs": 6442,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "text": "Imagine proving you know a secret \u2014",
+    "startMs": 86,
+    "endMs": 2255,
+    "timestampMs": 1170,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "without ever revealing what that secret is.",
+    "startMs": 2696,
+    "endMs": 5098,
+    "timestampMs": 3897,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "That's the idea behind a zero-knowledge proof.",
+    "startMs": 5502,
+    "endMs": 8603,
+    "timestampMs": 7052,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

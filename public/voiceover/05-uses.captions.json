@@ -1,0 +1,50 @@
+[
+  {
+    "text": "Zero-knowledge proofs power rollup verification,",
+    "startMs": 83,
+    "endMs": 3381,
+    "timestampMs": 1732,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "privacy-preserving identity,",
+    "startMs": 3750,
+    "endMs": 5238,
+    "timestampMs": 4494,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "and applications that validate sensitive data",
+    "startMs": 5464,
+    "endMs": 8000,
+    "timestampMs": 6732,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "without revealing it.",
+    "startMs": 8274,
+    "endMs": 9226,
+    "timestampMs": 8750,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "Not every zero-knowledge application",
+    "startMs": 9619,
+    "endMs": 11560,
+    "timestampMs": 10590,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "is private by default.",
+    "startMs": 11869,
+    "endMs": 13190,
+    "timestampMs": 12530,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

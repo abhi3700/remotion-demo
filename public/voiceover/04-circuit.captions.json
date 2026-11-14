@@ -1,0 +1,58 @@
+[
+  {
+    "text": "A proving system uses",
+    "startMs": 86,
+    "endMs": 1618,
+    "timestampMs": 852,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "the private witness and public statement",
+    "startMs": 1630,
+    "endMs": 3897,
+    "timestampMs": 2764,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "to create a proof",
+    "startMs": 4191,
+    "endMs": 5196,
+    "timestampMs": 4694,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "that the circuit's constraints hold.",
+    "startMs": 5196,
+    "endMs": 6728,
+    "timestampMs": 5962,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "Bob checks the proof",
+    "startMs": 7132,
+    "endMs": 8346,
+    "timestampMs": 7739,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "using public inputs \u2014",
+    "startMs": 8358,
+    "endMs": 9743,
+    "timestampMs": 9050,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "without learning the witness.",
+    "startMs": 9951,
+    "endMs": 11299,
+    "timestampMs": 10625,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

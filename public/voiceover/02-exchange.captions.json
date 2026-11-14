@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Alice is the prover.",
+    "startMs": 74,
+    "endMs": 1299,
+    "timestampMs": 686,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "Bob is the verifier.",
+    "startMs": 1691,
+    "endMs": 3162,
+    "timestampMs": 2426,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "Alice wants Bob to trust",
+    "startMs": 3566,
+    "endMs": 4865,
+    "timestampMs": 4216,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "that her claim is true \u2014",
+    "startMs": 4865,
+    "endMs": 5931,
+    "timestampMs": 5398,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "but she doesn't want to hand over",
+    "startMs": 6483,
+    "endMs": 7733,
+    "timestampMs": 7108,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "her private information.",
+    "startMs": 7745,
+    "endMs": 8738,
+    "timestampMs": 8242,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "Instead, she sends a proof.",
+    "startMs": 9142,
+    "endMs": 10968,
+    "timestampMs": 10055,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]
